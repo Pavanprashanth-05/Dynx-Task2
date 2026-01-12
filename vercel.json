@@ -1,5 +1,5 @@
 {
   "routes":[
-      { "src": "/", "dest": "/Todo.html" }
+      { "src": "/", "dest": "/weather.html" }
     ]
 }
